@@ -1,1 +1,1 @@
-Hello. A personal website of Matej Varga is on the following link https://mvarga1989.github.io/matejvarga/.
+Hello. A personal website of Matej Varga may be found on the following link https://mvarga1989.github.io/matejvarga/.
